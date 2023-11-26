@@ -28,7 +28,7 @@
 <br/>
 
 # 💫 About Me:
-🔭 I’m currently working on Flutter<br>🌱 I’m currently learning Kotlin & Jepack Compose<br>💬 Ask me about BTS <3<br>🫀 I love Mobile Development :)
+🔭 I’m currently working on Flutter<br>🌱 I’m currently learning Kotlin & Jetpack Compose<br>💬 Ask me about BTS <3<br>🫀 I love Mobile Development :)
 
 <br/>
 
